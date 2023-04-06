@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "bekashkubuliani",
+    "MONGO_PASSWORD": "tAjBVWsdpSFONstm",
+    "ACCESS_TOKEN_SECRET_KEY": "graphql_example_access",
+    "REFRESH_TOKEN_SECRET_KEY": "graphql_example_refresh"
+  }
+}
